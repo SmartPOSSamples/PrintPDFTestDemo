@@ -1,2 +1,2 @@
 # Overview
-this is a demo for how to print HTML and image format files.
+this is a demo for how to print PDF format files.
